@@ -182,7 +182,7 @@ def process_query_file(query_file_name, query_path, model, tokenizer, kb, qa_ret
 
     # Save metrics
     metrics_array = np.array(metrics)
-    metric_filename = f'metric_{query_file_name}'
+    metric_filename = f'metric_{query_file_name.replace(".csv", "")}.npy'
     metric_path = os.path.join(save_path, metric_filename)
     np.save(metric_path, metrics_array)
     print(f"Metrics saved to {metric_path}")
