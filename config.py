@@ -6,7 +6,7 @@ Centralized configuration management for all paths and hyperparameters.
 import torch
 
 # User Configuration: Please modify these according to your environment
-USERNAME = 'czhao93'
+USERNAME = 'YOUR_USERNAME'
 BASE_PATH = f'/scratch/{USERNAME}'
 
 
