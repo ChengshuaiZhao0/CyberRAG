@@ -1,6 +1,6 @@
 # CyberRAG
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv:2504.00389-%2340d9b0ff.svg)](https://arxiv.org/abs/2504.00389) [![Code](https://img.shields.io/badge/Code-GitHub-%2366b3ffff.svg)](https://github.com/ChengshuaiZhao0/CyberRAG)
+[![Paper](https://img.shields.io/badge/Paper-arXiv:2504.00389-%2340d9b0ff.svg)](https://arxiv.org/abs/2412.14191) [![Code](https://img.shields.io/badge/Code-GitHub-%2366b3ffff.svg)](https://github.com/ChengshuaiZhao0/CyberRAG)
 
 This repository contains the official Python implementation of the framework described in the paper **"CyberBOT: Towards Reliable Cybersecurity Education via Ontology-Grounded Retrieval Augmented Generation"**, accepted at CIKM 2025.
 
@@ -45,17 +45,17 @@ CyberRAG/
 ├── main.py                   # Main entry point to run experiments
 ├── config.py                 # Centralized configuration management
 ├── llm.py                    # Language model loading module
-├── answer_retriever.py      # RAG retriever module
+├── answer_retriever.py       # RAG retriever module
 ├── validation.py             # Ontology validation module
 ├── utils.py                  # Utility functions (dataset, evaluation)
 ├── requirements.txt          # Python dependencies
 ├── dataset/                  # Data directory
-│   ├── kb/                  # Knowledge base (CSV format)
-│   ├── ontology/            # Ontology files (ontology.txt)
-│   └── qa/                  # QA datasets
-│       ├── raw/             # Raw QA data (JSON format)
-│       └── split/           # Split datasets (CSV format)
-└── fig/                     # Figures and visualizations
+│   ├── kb/                   # Knowledge base (CSV format)
+│   ├── ontology/             # Ontology files (ontology.txt)
+│   └── qa/                   # QA datasets
+│       ├── raw/              # Raw QA data (JSON format)
+│       └── split/            # Split datasets (CSV format)
+└── fig/                      # Figures and visualizations
 ```
 
 ## Setup and Installation
