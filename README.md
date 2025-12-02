@@ -177,11 +177,10 @@ The script will:
 If you found this repo useful, please feel free to cite our work!
 
 ```bibtex
-@article{zhao2025cyberbot,
-  title={CyberBOT: Towards Reliable Cybersecurity Education via Ontology-Grounded Retrieval Augmented Generation},
-  author={Zhao, Chengshuai and De Maria, Riccardo and Kumarage, Tharindu and Chaudhary, Kumar Satvik and Agrawal, Garima and Li, Yiwen and Park, Jongchan and Deng, Yuli and Chen, Ying-Chih and Liu, Huan},
-  journal={arXiv preprint arXiv:2504.00389},
-  year={2025},
-  note={Accepted by CIKM 2025}
+@article{zhao2024ontology,
+  title={Ontology-aware rag for improved question-answering in cybersecurity education},
+  author={Zhao, Chengshuai and Agrawal, Garima and Kumarage, Tharindu and Tan, Zhen and Deng, Yuli and Chen, Ying-Chih and Liu, Huan},
+  journal={arXiv preprint arXiv:2412.14191},
+  year={2024}
 }
 ```
