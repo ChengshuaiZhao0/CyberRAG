@@ -2,7 +2,7 @@
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv:2504.00389-%2340d9b0ff.svg)](https://arxiv.org/abs/2412.14191) [![Code](https://img.shields.io/badge/Code-GitHub-%2366b3ffff.svg)](https://github.com/ChengshuaiZhao0/CyberRAG)
 
-This repository contains the official Python implementation of the framework described in the paper **"CyberBOT: Towards Reliable Cybersecurity Education via Ontology-Grounded Retrieval Augmented Generation"**, accepted at CIKM 2025.
+This repository contains the official Python implementation of the framework described in the paper **"Ontology-Aware RAG for Improved Question-Answering in Cybersecurity Education"**, accepted at IEEE BigData 2025.
 
 ![image-20241222221611937](fig/overview.jpg)
 
