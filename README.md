@@ -179,7 +179,7 @@ If you found this repo useful, please feel free to cite our work!
 ```bibtex
 @article{zhao2024ontology,
   title={Ontology-aware rag for improved question-answering in cybersecurity education},
-  author={Zhao, Chengshuai and Zhang, Fan and Agrawal, Garima and Kumarage, Tharindu and Tan, Zhen and Deng, Yuli and Chen, Ying-Chih and Liu, Huan},
+  author={Zhao, Chengshuai and Agrawal, Garima and Zhang, Fan and Kumarage, Tharindu and Tan, Zhen and Deng, Yuli and Chen, Ying-Chih and Liu, Huan},
   journal={arXiv preprint arXiv:2412.14191},
   year={2024}
 }
